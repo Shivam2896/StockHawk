@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الأسهم هوك</string>
+
+    <string name="action_settings">إعدادات</string>
+    <string name="action_change_units">وحدات التغيير</string>
+    <string name="symbol_search">رمز البحث</string>
+    <string name="content_test">البحث عن رمز السهم</string>
+    <string name="network_toast">أي اتصال بالإنترنت!</string>
+
+    <string name="content_description">إضافة الأسهم</string>
+
+    <string name="stock_saved">يتم حفظ هذا المخزون فعلا!</string>
+
+    <string name="widget_title">بلدي المالية</string>
+</resources>
